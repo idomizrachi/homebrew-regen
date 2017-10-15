@@ -5,9 +5,9 @@
 class Regen < Formula
   desc "Regen generates objective-c code for accessing your images and localized string"
   homepage "https://github.com/idomizrachi/Regen"
-  url "https://github.com/idomizrachi/Regen/archive/0.0.7.tar.gz"
-  version "0.0.7"
-  sha256 "fa99b9c6ebb9a093502bbb48bc26fb37cd2cd6a683534d445c8c1a11f987d0ed"
+  url "https://github.com/idomizrachi/Regen/archive/0.0.8.tar.gz"
+  version "0.0.8"
+  sha256 ""
   head "https://github.com/idomizrachi/Regen.git"
 
   # depends_on "cmake" => :build
