@@ -7,7 +7,7 @@ class Regen < Formula
   homepage "https://github.com/idomizrachi/Regen"
   url "https://github.com/idomizrachi/Regen/archive/0.0.8.tar.gz"
   version "0.0.8"
-  sha256 ""
+  sha256 "bbe6f87591ab681fe94e52f5a586f3ea1f3e03d37a83f23311162cf216643518"
   head "https://github.com/idomizrachi/Regen.git"
 
   # depends_on "cmake" => :build
